@@ -1,4 +1,5 @@
-import { test } from './module';
 import './styles/main.css';
+import Rectangle from './module/rectangle';
 
-console.log('aa', test);
+const rectangle = new Rectangle(10, 30);
+console.log('aa', rectangle.height);
