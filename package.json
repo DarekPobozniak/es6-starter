@@ -1,7 +1,7 @@
 {
-  "name": "nespresso",
+  "name": "es6-starter",
   "version": "1.0.0",
-  "description": "Nespresso challenge",
+  "description": "ES2015 starter kit",
   "main": "index.js",
   "author": "Dariusz Pobożniak",
   "license": "MIT",

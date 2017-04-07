@@ -1,5 +1,5 @@
-# nespresso
-Nespresso challenge
+# es6 starter
+ES2015 starter kit
 
 ## Local Installation
 
